@@ -30,6 +30,7 @@ VERSION 2.07
 - Toggle infinite ammo
 
 *--- TELEPORTATION ENABLED ---*
+
 *Left Arrow Key*
 - Teleports you to first rally point in Fallen Angel
 
@@ -41,7 +42,6 @@ VERSION 2.07
 
 
 **[INSTRUCTIONS]**
-
 - Inject the dll.
 - Host a quest game (7th stage only).
 - Run past the green truck until you trigger the dialogue.
