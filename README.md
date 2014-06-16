@@ -19,6 +19,7 @@ VERSION 2.07
 - Plays a C minor progression upon deactivation
 
 **[HOTKEYS]**
+
 *NUMPAD 7*
 - Toggle infinite Z-Bar and no cooldown on Z-Bar skills
 
