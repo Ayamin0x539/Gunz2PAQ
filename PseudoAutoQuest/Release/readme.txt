@@ -2,10 +2,6 @@
 VERSION 2.07
 ////
 
-[WARNING]
-Since I've been banned, I can't really test anything.  Everything past the initial release is expected to be buggy.
-Rather, it's up to you guys to test these releases for me and let me know if you have any suggestions, complaints, etc. so that I can improve this dll.
-
 [FEATURES]
 - Compatibility with Cyanide. You can inject this with Cyanide. Actually, it's meant to be used with Cyanide. I purposefully made it so the hotkeys wouldn't conflict.
 - Infinite Ammo
