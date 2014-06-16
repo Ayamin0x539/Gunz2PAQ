@@ -19,13 +19,18 @@ VERSION 2.07
 - Plays a C minor progression upon deactivation
 
 **[HOTKEYS]**
+
 NUMPAD 7
+
 Toggle infinite Z-Bar and no cooldown on Z-Bar skills
 
+
 NUMPAD 8
+
 Toggle teleportation
 
 NUMPAD 9
+
 Toggle infinite ammo
 
 --- TELEPORTATION ENABLED ---
