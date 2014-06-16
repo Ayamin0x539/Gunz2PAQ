@@ -71,11 +71,55 @@ Teleport to the last rally point.
 
 Enjoy.
 
-**[CHANGELOG
+**[CHANGELOG]**
 
 V2.07 (June 2, 2014)
 - Vacuum doesn't work anymore
 - Changed hotkeys to be compatible with Cyanide
 - Updated addresses to work with most recent friendlist-fix update
 
+V2.06 (May 27, 2014)
+- Made an all-in-one hotkey for vacuum (NUMPAD 9)
+- Updated addresses according to the update
 
+V2.05 (May 19, 2014)
+- Fixed up and down teleportation
+- First teleport will bring you to the safespot immediately
+
+V2.04 (May 19, 2014)
+- Removed NUMPAD9 hotkey
+- Changed hotkeys
+
+V2.03 (May 19, 2014)
+- Changed teleports to support Fallen Angel only
+
+V2.02 (May 16, 2014)
+- Teleports should register
+- Attempted a fix for up/down teleportation
+- Less CPU intensive
+
+V2.01 (May 16, 2014)
+- Fixed hotkeys; they should better now (thanks killer1478)
+- Replaced message boxes with beeps
+- Sorry if the beep sequences are a bit long, I was having fun D:
+
+V2.00 (May 15, 2014)
+- HOTKEY REVAMP! Woo!
+- Fixed the logic a bit in the loop.
+- Lowered the sleep delay in between each loop. Let me know if you're having lag issues.
+- Added up/down teleport options that don't work. I'll try to figure this out.
+- Fixed the second teleport in the second map. It was sending you below the elevator.
+- The distance mobs get vacuumed to you is now greatly increased so you can stay alive. I'll lower this distance once Cosmos updates Cyanide.
+- Message boxes will appear when you enable/disable everything for testing purposes
+
+V1.02 (May 15, 2014)
+- Added infinite ammo
+- Statically linked VC2013 Redistributable (... I think)
+
+V1.01 (May 15, 2014)
+- Added infinite z-bar
+- Added no cooldown on special skills
+
+V1 (May 14, 2014)
+- Released
+- Vacuum and teleportation
