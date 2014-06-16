@@ -71,8 +71,11 @@ Teleport to the last rally point.
 
 Enjoy.
 
-**[CHANGELOG]**
+**[CHANGELOG
+
 V2.07 (June 2, 2014)
 - Vacuum doesn't work anymore
 - Changed hotkeys to be compatible with Cyanide
 - Updated addresses to work with most recent friendlist-fix update
+
+
